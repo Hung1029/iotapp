@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DemoApp</string>
+    <string name="hello_app">Hello TestApp!</string>
+
+    String string = getString(R.text.textEmailAddress)
+    System.out.printIn();
+    <string name="test1">%d</string>
+    <string name="Input_test">@string/test1</string>
+    <string name="password">Password</string>
+    <string name="welcome">Welcome!</string>
+</resources>
